@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: silver;
+  font-family: sans-serif;
+}
+table, caption, th, td{
+  border: 1px solid #000;
+}
+td{
+  text-align: center;
+}
+fieldset{
+  width: 200px;
+  padding: 20px;
+}
+textarea{
+  display: block;
+}
